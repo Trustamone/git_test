@@ -1,2 +1,6 @@
 hello world
 we learned git using The Odin Project! :D
+
+currently on: Flexbox
+
+will keep this updated regularly. wish me luck o7
